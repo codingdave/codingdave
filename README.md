@@ -1,7 +1,9 @@
 - Hi, I’m @codingdave, a Senior developer and team leader working in the CAD/CAM area
 - My interests cover 
-  - Writing helpful quality UX applications on Windows, Linux, Android and the web
-  - CI/CD systems and all kind of automation
+  - Software architecture: Create maintainable and stable software
+  - User focused software: Usability and good user experience
+  - Applications on Windows, Linux, Android and the web
+  - CI/CD (and all kind of automation)
   - basic electronics (hacking my smart home starting with a soldering iron)
   - network topology (Linux, Windows, virtual machines, ...)
 - I’m currently improving my knowledge about leadership and modern C# & proper WPF and MsBuild  
