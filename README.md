@@ -4,7 +4,7 @@
   - User focused software: Usability and good user experience
   - Applications on Windows, Linux, Android and the web
   - CI/CD (and all kind of automation)
-  - basic electronics (hacking my smart home starting with a soldering iron)
+  - basic electronics (hacking my smart home - from soldering iron via low level code to managing high level brokers)
   - network topology (Linux, Windows, virtual machines, ...)
 - I’m currently improving my knowledge about leadership and modern C# & proper WPF and MsBuild  
 - Some tools in my inventory:  git, C#, C++, bash, PowerShell, vim, Visual Studio, VS Code 
