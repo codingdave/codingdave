@@ -6,8 +6,8 @@
   - CI/CD (and all kind of automation)
   - basic electronics (hacking my smart home - from soldering iron via low level code to managing high level brokers)
   - network topology (Linux, Windows, virtual machines, ...)
-- I’m currently improving my knowledge about leadership and modern C# & proper WPF and MsBuild  
-- Some tools in my inventory:  git, C#, C++, bash, PowerShell, vim, Visual Studio, VS Code 
+- I’m currently improving my knowledge about leadership, architecture, modern C# & proper WPF, and MsBuild  
+- Some tools in my inventory: git, C#, C++, bash, PowerShell, vim, Visual Studio, VS Code 
 - I’m looking to collaborate wherever I can help with
 
 <!---
